@@ -1,1 +1,26 @@
-/out
+# Lab task source documents
+lab_tasks/
+
+# Java build output
+out/
+**/out/
+bin/
+**/bin/
+build/
+**/build/
+target/
+**/target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+**/.idea/
+*.iml
+
+# Gradle / Maven caches and wrappers output
+.gradle/
+**/.gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
